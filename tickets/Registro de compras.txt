@@ -1,0 +1,25 @@
+proyecto comparativa de compras 
+
+							PRECIOS
+
+	ARTICULOS			SORIANA		BODEGA AURRERA 	     SUPER PLAZA    	  FRUTERIA	 OXXO
+
+Aceite Nutrioli				$35.90
+Acondicionador Tresemme			$62.45
+Jugo del Valle Frut			$25.90
+Detergente 123				$27.50
+Donitas totis chile			$33.90
+Electrolit				$22.90
+Galleta emperador combinado		$45.00
+Galleta emperador limon 		$45.00
+Jugo del valle mango			$41.90
+leche lala entera			$29.00
+Palominas extra mantequilla		$17.00
+Pan de muerto individual		$16.90
+Pan de pulque				$25.90
+Pan mantecada				$09.50
+Pay de queso				$40.00
+Refresco coca cola 600ml		$19.00
+Refresco Fanta fresa 600ml		$17.90
+Refresco fresca 600ml			$19.90
+Shampoo tresemme 			$62.45
